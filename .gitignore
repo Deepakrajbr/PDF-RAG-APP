@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+env/
+RAG/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Uploaded files
+uploads/
+*.pdf
+
+# Vector database
+*.faiss
+*.pkl
